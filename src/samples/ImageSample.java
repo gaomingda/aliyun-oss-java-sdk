@@ -5,7 +5,7 @@ import java.io.IOException;
 
 import com.aliyun.oss.ClientException;
 import com.aliyun.oss.OSSClient;
-import com.aliyun.oss.OSSException;
+import com.aliyun.oss.OSSException;111
 import com.aliyun.oss.model.GetObjectRequest;
 
 /**
